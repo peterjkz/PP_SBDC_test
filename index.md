@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/peterjkz/PP_SBDC_test/edit
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 scripting  : 
-<script src="https://d3js.org/d3.v6.min.js"> hier zit dan scriptje ? </script>
+<script src="https://d3js.org/d3.v6.min.js"> hier zit dan scriptje ? ; a = 5; </script>
     
 maar hoe in de scripting hier ?
 
