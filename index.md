@@ -1,3 +1,5 @@
+# Blah
+
 ## Welcome to GitHub Pages
 
 LALALALAL
@@ -10,6 +12,8 @@ scripting  :
 <script src="https://d3js.org/d3.v6.min.js"> hier zit dan scriptje ? ; a = 5; </script>
     
 maar hoe in de scripting hier ?
+dat werkt dus niet, zitten in Markdown zelf ...
+
 
 ### Markdown
 
