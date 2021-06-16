@@ -7,8 +7,20 @@ LALALALAL
 You can use the [editor on GitHub](https://github.com/peterjkz/PP_SBDC_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
+### de rrn file
+
+Kolommen zijn gebaseerd op "afstand" : na 50, 100, ... karakters .
+Het RRN hangt in een tekst (string) in de eerste kolom.
+
+bekijk de file :
+```
+head -n5 OVL_20201001
+```
 
 ### opkuisen van de file
+Eerst
+
+time : geeft de verwerkingstijd
 
 ```markdown
 
