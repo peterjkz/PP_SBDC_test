@@ -13,7 +13,7 @@ Kolommen zijn gebaseerd op "afstand" : na 50, 100, ... karakters .
 Het RRN hangt in een tekst (string) in de eerste kolom.
 
 bekijk de file :
-```
+```ubuntu
 head -n5 OVL_20201001
 ```
 
@@ -35,6 +35,16 @@ head -n5 OVL20201001_RRN.csv
 ![image](https://user-images.githubusercontent.com/11255455/122234123-e79e0b00-cebc-11eb-8bd8-b02457ba170e.png)
 
 ```
+
+```javascript
+
+a = 10;
+b = 5;
+a*b 
+for(i; ...)
+```
+
+
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
