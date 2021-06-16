@@ -13,7 +13,7 @@ Kolommen zijn gebaseerd op "afstand" : na 50, 100, ... karakters .
 Het RRN hangt in een tekst (string) in de eerste kolom.
 
 bekijk de file :
-```bash
+```shell
 head -n5 OVL_20201001
 ```
 
@@ -22,7 +22,7 @@ Eerst
 
 time : geeft de verwerkingstijd
 
-```markdown
+```shell
 
 time awk -F " " '{print $1}' OVL_20201001.csv > OVL20201001_1e_kolom.csv
 
