@@ -13,7 +13,7 @@ Kolommen zijn gebaseerd op "afstand" : na 50, 100, ... karakters .
 Het RRN hangt in een tekst (string) in de eerste kolom.
 
 bekijk de file :
-```sh
+```bash
 head -n5 OVL_20201001
 ```
 
