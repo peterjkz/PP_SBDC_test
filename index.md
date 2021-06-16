@@ -6,17 +6,25 @@ LALALALAL
 
 You can use the [editor on GitHub](https://github.com/peterjkz/PP_SBDC_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-scripting  : 
-<script src="https://d3js.org/d3.v6.min.js"> hier zit dan scriptje ? ; a = 5; </script>
-    
-maar hoe in de scripting hier ?
-dat werkt dus niet, zitten in Markdown zelf ...
 
+### opkuisen van de file
+
+```markdown
+
+time awk -F " " '{print $1}' OVL_20201001.csv > OVL20201001_1e_kolom.csv
+
+head -n5 OVL20201001_1e_kolom.csv
+
+time cut -c3-13 OVL20201001_1e_kolom.csv > OVL20201001_RRN.csv
+
+head -n5 OVL20201001_RRN.csv
+
+![image](https://user-images.githubusercontent.com/11255455/122234123-e79e0b00-cebc-11eb-8bd8-b02457ba170e.png)
+
+```
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
