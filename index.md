@@ -2,6 +2,8 @@
 
 ## Welcome to GitHub Pages
 
+gebruik dit voor technische documentatie
+
 LALALALAL
 
 You can use the [editor on GitHub](https://github.com/peterjkz/PP_SBDC_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
