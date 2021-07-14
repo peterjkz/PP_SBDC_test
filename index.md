@@ -2,7 +2,10 @@
 
 ## Welcome to GitHub Pages
 
+
 gebruik dit voor technische documentatie
+duurt effe eer je ziet op site
+
 
 LALALALAL
 
