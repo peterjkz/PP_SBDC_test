@@ -10,7 +10,17 @@ Waarom toch Linux ?
 - transporteerbaar
 - gratis --> onafhanlelijk zelf iets opbouwen 
 
+- ook als tool om D-G / ICT-geletterdheid uit te leggen in een cursus
+
 You can use the [editor on GitHub](https://github.com/peterjkz/PP_SBDC_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+## "projecten"
+- kleuters 
+- scholentabel ? --> script 
+-- 
+- opzoeken leerlingen Antwerpen --> Vlaanderen
+- 
+
 
 ## kleuters in Aalst koppelen aan discimus via RRN
 doel : 
