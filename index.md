@@ -2,15 +2,18 @@
 
 ## data analyse met linux
 
+Data-analyse ermee niet evident, niet ervoor gemaakt?
 
-gebruik dit voor technische documentatie
-duurt effe eer je ziet op site
-
-
-LALALALAL
+Waarom toch Linux ? 
+- zit overal, ook in cloudtoepassingen
+- werkt ook met redelijk grote files snel
+- transporteerbaar
+- gratis --> onafhanlelijk zelf iets opbouwen 
 
 You can use the [editor on GitHub](https://github.com/peterjkz/PP_SBDC_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+## kleuters in Aalst koppelen aan discimus via RRN
+doel : 
 
 ### de rrn file
 
