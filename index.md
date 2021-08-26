@@ -5,9 +5,9 @@
 Data-analyse ermee niet evident, niet ervoor gemaakt?
 
 Waarom toch Linux ? 
-- vaak loopt er iets vast (Excel : 1M rijen ..., R : in memory) : werkt en blijft werken 
+- vaak loopt er iets vast (Excel : 1M rijen ..., R : in memory) : maar Linux werkt en blijft werken 
 - ook met redelijk grote files redelijk snel
-- zit overal, ook in cloudtoepassingen
+- zit echt overal, ook in cloudtoepassingen
 - transporteerbaar
 - gratis --> onafhanlelijk zelf iets opbouwen 
 - dwingt te denken als data-analist
