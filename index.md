@@ -1,6 +1,6 @@
 # Blah
 
-## data analyse met linux -- inlieiding tot data-anlyse via Linux -- fundamentele data-analyse met/via Linux
+## data analyse met linux -- (een kleine) inleiding tot data-analyse via Linux -- fundamentele data-analyse met/via Linux
 
 Data-analyse ermee niet evident, niet ervoor gemaakt?
 
