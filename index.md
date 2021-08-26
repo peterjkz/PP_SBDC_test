@@ -1,14 +1,18 @@
 # Blah
 
-## data analyse met linux
+## data analyse met linux -- inlieiding tot data-anlyse via Linux -- fundamentele data-analyse met/via Linux
 
 Data-analyse ermee niet evident, niet ervoor gemaakt?
 
 Waarom toch Linux ? 
+- vaak loopt er iets vast (Excel : 1M rijen ..., R : in memory) : werkt en blijft werken 
+- ook met redelijk grote files redelijk snel
 - zit overal, ook in cloudtoepassingen
-- werkt ook met redelijk grote files snel
 - transporteerbaar
 - gratis --> onafhanlelijk zelf iets opbouwen 
+- dwingt te denken als data-analist
+- ook over databases : te vaak voor analisten : queries, maar weinig begrip voor onderliggende structuur e.d.
+- (ook iets als 'string variabelen' in SAS, R)
 
 - ook als tool om D-G / ICT-geletterdheid uit te leggen in een cursus
 
