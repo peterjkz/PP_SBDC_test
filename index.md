@@ -19,7 +19,7 @@ Waarom toch Linux ?
 You can use the [editor on GitHub](https://github.com/peterjkz/PP_SBDC_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
-## 
+## vergeet - effe - data-types
 - links-rechts : tekst en cijfers / getallen
 - laat alles tekst zijn  / alles is tekst
 - een tabel : zie ook de output in bash zelf, whitespaces ... 
